@@ -1,0 +1,150 @@
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\ScoreManagement.exe
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\ScoreManagement.deps.json
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\ScoreManagement.runtimeconfig.json
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\ScoreManagement.dll
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\ScoreManagement.pdb
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\obj\Debug\net7.0-windows\ScoreManagement.csproj.GenerateResource.cache
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\obj\Debug\net7.0-windows\ScoreManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\obj\Debug\net7.0-windows\ScoreManagement.AssemblyInfoInputs.cache
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\obj\Debug\net7.0-windows\ScoreManagement.AssemblyInfo.cs
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\obj\Debug\net7.0-windows\ScoreManagement.csproj.CoreCompileInputs.cache
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\obj\Debug\net7.0-windows\ScoreManagement.dll
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\obj\Debug\net7.0-windows\refint\ScoreManagement.dll
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\obj\Debug\net7.0-windows\ScoreManagement.pdb
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\obj\Debug\net7.0-windows\ScoreManagement.genruntimeconfig.cache
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\obj\Debug\net7.0-windows\ref\ScoreManagement.dll
+C:\Users\ASUS\source\repos\ScoreManagement\bin\Debug\net7.0-windows\ScoreManagement.exe
+C:\Users\ASUS\source\repos\ScoreManagement\bin\Debug\net7.0-windows\ScoreManagement.deps.json
+C:\Users\ASUS\source\repos\ScoreManagement\bin\Debug\net7.0-windows\ScoreManagement.runtimeconfig.json
+C:\Users\ASUS\source\repos\ScoreManagement\bin\Debug\net7.0-windows\ScoreManagement.dll
+C:\Users\ASUS\source\repos\ScoreManagement\bin\Debug\net7.0-windows\ScoreManagement.pdb
+C:\Users\ASUS\source\repos\ScoreManagement\obj\Debug\net7.0-windows\ScoreManagement.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\ScoreManagement\obj\Debug\net7.0-windows\ScoreManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\ScoreManagement\obj\Debug\net7.0-windows\ScoreManagement.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\ScoreManagement\obj\Debug\net7.0-windows\ScoreManagement.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\ScoreManagement\obj\Debug\net7.0-windows\ScoreManagement.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ScoreManagement\obj\Debug\net7.0-windows\ScoreManagement.dll
+C:\Users\ASUS\source\repos\ScoreManagement\obj\Debug\net7.0-windows\refint\ScoreManagement.dll
+C:\Users\ASUS\source\repos\ScoreManagement\obj\Debug\net7.0-windows\ScoreManagement.pdb
+C:\Users\ASUS\source\repos\ScoreManagement\obj\Debug\net7.0-windows\ScoreManagement.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\ScoreManagement\obj\Debug\net7.0-windows\ref\ScoreManagement.dll
+C:\Users\ASUS\source\repos\ScoreManagement\obj\Debug\net7.0-windows\ScoreManagement.fLogin.resources
+C:\Users\ASUS\source\repos\ScoreManagement\obj\Debug\net7.0-windows\ScoreManagement.fManageScore.resources
+C:\Users\ASUS\source\repos\ScoreManagement\obj\Debug\net7.0-windows\ScoreManagement.Properties.Resources.resources
+C:\Users\ASUS\source\repos\ScoreManagement\obj\Debug\net7.0-windows\ScoreManagement.fMain.resources
+C:\Users\ASUS\source\repos\ScoreManagement\obj\Debug\net7.0-windows\ScoreManagement.fNewManageScore.resources
+C:\Users\ASUS\source\repos\ScoreManagement\obj\Debug\net7.0-windows\ScoreManagement.fManageFalcuty.resources
+C:\Users\ASUS\source\repos\ScoreManagement\obj\Debug\net7.0-windows\ScoreManagement.fEditFalcuty.resources
+C:\Users\ASUS\source\repos\ScoreManagement\obj\Debug\net7.0-windows\ScoreManagement.fChangePassword.resources
+C:\Users\ASUS\source\repos\ScoreManagement\obj\Debug\net7.0-windows\ScoreManagement.fManageStudent.resources
+C:\Users\ASUS\source\repos\ScoreManagement\obj\Debug\net7.0-windows\ScoreManagement.fManageClass.resources
+C:\Users\ASUS\source\repos\ScoreManagement\obj\Debug\net7.0-windows\ScoreManagement.fManageSubject.resources
+C:\Users\ASUS\source\repos\ScoreManagement\obj\Debug\net7.0-windows\ScoreManagement.fLookUpScore.resources
+C:\Users\ASUS\source\repos\ScoreManagement\obj\Debug\net7.0-windows\ScoreManagement.fListFailingSubject.resources
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\obj\Debug\net7.0-windows\ScoreManagement.fChangePassword.resources
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\obj\Debug\net7.0-windows\ScoreManagement.fListFailingSubject.resources
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\obj\Debug\net7.0-windows\ScoreManagement.fLogin.resources
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\obj\Debug\net7.0-windows\ScoreManagement.fLookUpScore.resources
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\obj\Debug\net7.0-windows\ScoreManagement.fMainAdmin.resources
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\obj\Debug\net7.0-windows\ScoreManagement.fMainStudent.resources
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\obj\Debug\net7.0-windows\ScoreManagement.fManageClass.resources
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\obj\Debug\net7.0-windows\ScoreManagement.fManageScore.resources
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\obj\Debug\net7.0-windows\ScoreManagement.fManageStudent.resources
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\obj\Debug\net7.0-windows\ScoreManagement.fManageSubject.resources
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\obj\Debug\net7.0-windows\ScoreManagement.fNewManageScore.resources
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\obj\Debug\net7.0-windows\ScoreManagement.Properties.Resources.resources
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\ScoreManagement.dll.config
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\Azure.Core.dll
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\Azure.Identity.dll
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\Humanizer.dll
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\System.Memory.Data.dll
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\obj\Debug\net7.0-windows\ScoreManagement.csproj.AssemblyReference.cache
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\obj\Debug\net7.0-windows\ScoreManagement.csproj.CopyComplete
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\obj\Debug\net7.0-windows\ScoreManagement.fEditStudentInfo.resources
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\obj\Debug\net7.0-windows\ScoreManagement.fManageFaculty.resources
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\obj\Debug\net7.0-windows\ScoreManagement.fEditStudentInfoForTeacher.resources
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\obj\Debug\net7.0-windows\ScoreManagement.fEditScore.resources
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\obj\Debug\net7.0-windows\ScoreManagement.fManageClassSubject.resources
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\obj\Debug\net7.0-windows\ScoreManagement.fEditClassSubject.resources
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\obj\Debug\net7.0-windows\ScoreManagement.FCreateTranscript.resources
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\obj\Debug\net7.0-windows\ScoreManagement.fReportTranscript.resources
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\Microsoft.CodeAnalysis.dll
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\Microsoft.ReportViewer.Common.dll
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\Microsoft.ReportViewer.WinForms.dll
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\obj\Debug\net7.0-windows\ScoreManagement.fEditSubject1.resources
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\obj\Debug\net7.0-windows\ScoreManagement.fEditSubject2.resources
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\obj\Debug\net7.0-windows\ScoreManagement.fEditFaculty.resources
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\obj\Debug\net7.0-windows\ScoreManagement.fEditGroupClass1.resources
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\obj\Debug\net7.0-windows\ScoreManagement.fEditGroupClass2.resources
+D:\Academy\6th Semester\Windows Programming\ScoreManagement\obj\Debug\net7.0-windows\ScoreManagement.fReportFailingScore.resources
